@@ -68,6 +68,7 @@
 ├── styles.css
 ├── script.js
 ├── types.ts
+├── README.md
 └── design-decisions.md
 
 ```
